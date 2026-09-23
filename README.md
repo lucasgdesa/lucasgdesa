@@ -5,6 +5,7 @@ Desenvolvedor web em formação, em Niterói (RJ). Estou em transição de carre
 ## 🚀 Projeto em destaque
 
 **[Kanoa: site e painel administrativo para uma loja de canoagem](https://github.com/lucasgdesa/kanoa-case-study)**
+
 Site em produção com um painel onde a dona da loja gerencia sozinha produtos, fotos e textos.
 Segurança com Row Level Security no PostgreSQL, upload de fotos com enquadramento por arraste e pedido direto pelo WhatsApp.
 
@@ -13,6 +14,7 @@ Segurança com Row Level Security no PostgreSQL, upload de fotos com enquadramen
 ## 🛠️ Tecnologias
 
 **Uso em projetos:** JavaScript · HTML5 · Tailwind CSS · Supabase (PostgreSQL, Auth, Storage) · Git · Vercel
+
 **Estudando:** Python · Django · Flask
 
 ## 📚 Agora
