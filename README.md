@@ -24,4 +24,4 @@ Segurança com Row Level Security no PostgreSQL, upload de fotos com enquadramen
 
 ## 📫 Contato
 
-[LinkedIn](https://www.linkedin.com/in/lucasgdesa-dev/) · [Portfólio](https://claude.ai/artifact/HCtT1vE8zbhENmMoUrEAL2)
+[LinkedIn](https://www.linkedin.com/in/lucasgdesa-dev/) · [Portfólio](https://lucasgdesa.github.io/)
